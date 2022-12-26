@@ -7,3 +7,10 @@ parameters of the motor, that is handy to have associated to the class instance 
 2) The current voltage read by the Arduino pin
 3) The treshold that the user wants to set for the movement of a given motor, and that can be different for each motor.
 
+
+**#2 - Optimal guidance of a homing missile**
+Within MECE6388 Optimal Control class, I chose as final project topic the optimal guidance of a homing missile. I developed a 
+(very naive) procedure to rake through the LQR parameters and choose the most suitable ones based on three criteria:
+1) The maximum control that can be applied
+2) The maximum error that can be allowed for a successful collision
+3) The maximum power required by the mission (embodied in an integral of the control from 0 to T)

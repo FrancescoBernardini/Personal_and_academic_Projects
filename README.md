@@ -14,3 +14,6 @@ Within MECE6388 Optimal Control class, I chose as final project topic the optima
 1) The maximum control that can be applied
 2) The maximum error that can be allowed for a successful collision
 3) The maximum power required by the mission (embodied in an integral of the control from 0 to T)
+
+**#3 - FPGA**
+This folder contains material related to class ECE6370, dealing with FPGA and Verilog.

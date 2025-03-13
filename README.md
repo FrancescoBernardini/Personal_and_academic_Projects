@@ -17,3 +17,16 @@ Within MECE6388 Optimal Control class, I chose as final project topic the optima
 
 **#3 - FPGA**
 This folder contains material related to class ECE6370, dealing with FPGA and Verilog.
+
+**#4 - 3D MODELS**
+This folder contains 3D printable parts I designed for my PhD projects.
+
+**#5 - Constrained 2D Network Problem**
+This folder contains code and pictures related to the constrained 2D network problem, which I studied in 
+1) https://ieeexplore.ieee.org/abstract/document/10711430
+2) A journal paper, under review 
+3) Another conference paper, which I'm writing right now (as of March 12 2025)
+
+
+
+

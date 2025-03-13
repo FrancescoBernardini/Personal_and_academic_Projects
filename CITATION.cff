@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Bernardini
+    given-names: Francesco
+    orcid: https://orcid.org/0009-0002-2352-9241
+title: "Homotopy candidates generation"
+version: 1.0.0
+date-released (yyyy-mm-dd): 2025-03-12
